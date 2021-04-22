@@ -13,7 +13,7 @@
 - ⚡ Fun fact: ...
 -->
 
-[![My Stats](https://github-readme-stats.vercel.app/api?username=orbitalsqwib&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![My Stats](https://github-readme-stats.vercel.app/api?username=orbitalsqwib&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orbitalsqwib)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orbitalsqwib&layout=compact&hide=java,ruby)](https://github.com/anuraghazra/github-readme-stats)
