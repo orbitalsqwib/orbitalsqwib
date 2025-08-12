@@ -13,7 +13,19 @@
 - ⚡ Fun fact: ...
 -->
 
-[![My Stats](https://github-readme-stats.vercel.app/api?username=orbitalsqwib&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+I'm a student who loves building cool stuff, as well as learning how other cool things work.
 
+- 🌱 Currently studying Computer Science at the National University of Singapore
+- 🔭 I’m currently looking into building a portfolio site...
+- 💬 Ask me about working in the public service as a software engineering intern!
+- ⚡ Fun fact: `orbitalsqwib` is an intentional misspelling of `orbitalsquid` so i can keep the namespace for cheaper...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orbitalsqwib&layout=compact&hide=java,ruby)](https://github.com/anuraghazra/github-readme-stats)
+Here's some cool stuff I've built over my academic career:
+ - [OrbitEngine](https://github.com/orbitalsqwib/orbitengine), a game engine based on the [ECS](https://en.wikipedia.org/wiki/Entity_component_system) programming paradigm, built in C++ and DirectX.
+ - [ThreadApp](https://github.com/orbitalsqwib/MAD-2020-threadapp), a proof-of-concept Android application built in Java with a group of friends.
+
+Here's some more cool stuff I've worked on during my internships (FOSS, of course.):
+ - [open-org-license-scanner](https://github.com/opengovsg/open-org-license-scanner), a simple way to scan an org's repos for licenses-of-concern for your policy team to review.
+ - [redeem-ce](https://github.com/opengovsg/redeem-ce), a repackaging of RedeemSG (a voucher distribution and redemption system) intended for a global audience.
+
+If you'd like to contact me, sling me a mail at [orbital@sqwib.works](mailto:orbital@sqwib.works)!
